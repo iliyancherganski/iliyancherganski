@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/iliyancherganski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iliyan cherganski" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/iliyan-cherganski-4070902b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iliyan cherganski" height="30" width="40" /></a>
 <a href="https://instagram.com/iliyancherganski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iliyancherganski" height="30" width="40" /></a>
 <a href="https://discord.gg/nhdest1ny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nhdest1ny" height="30" width="40" /></a>
 </p>
