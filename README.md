@@ -19,14 +19,14 @@
 
 <h3 align="left">Certificates:</h3>
 <ul>
-  <li href="https://softuni.bg/certificates/certificates/converttoimage/118104?code=a0283584">Programming Basics with C#</li>
-  <li href="https://softuni.bg/certificates/certificates/converttoimage/139492?code=292e76b4">Programming Fundamentals with C#</li>
-  <li href="https://softuni.bg/certificates/certificates/converttoimage/144004?code=1419545d">C# Advanced</li>
-  <li href="https://softuni.bg/certificates/certificates/converttoimage/150763?code=90ffc909">C# OOP</li>
-  <li href="https://softuni.bg/certificates/certificates/converttoimage/157826?code=da6fc46b">MS SQL</li>
-  <li href="https://softuni.bg/certificates/certificates/converttoimage/164857?code=5eb0b250">Entity Framework Core</li>
-  <li href="https://softuni.bg/certificates/certificates/converttoimage/215328?code=9d5a9e72">ASP.NET Fundamentals</li>
-  <li href="https://softuni.bg/certificates/certificates/converttoimage/218591?code=b424b50c">HTML & CSS</li>
+  <li> <a href="https://softuni.bg/certificates/certificates/converttoimage/118104?code=a0283584">Programming Basics with C# </a></li>
+  <li> <a href="https://softuni.bg/certificates/certificates/converttoimage/139492?code=292e76b4">Programming Fundamentals with C# </a></li>
+  <li> <a href="https://softuni.bg/certificates/certificates/converttoimage/144004?code=1419545d">C# Advanced </a></li>
+  <li> <a href="https://softuni.bg/certificates/certificates/converttoimage/150763?code=90ffc909">C# OOP </a></li>
+  <li> <a href="https://softuni.bg/certificates/certificates/converttoimage/157826?code=da6fc46b">MS SQL </a></li>
+  <li> <a href="https://softuni.bg/certificates/certificates/converttoimage/164857?code=5eb0b250">Entity Framework Core </a></li>
+  <li> <a href="https://softuni.bg/certificates/certificates/converttoimage/215328?code=9d5a9e72">ASP.NET Fundamentals </a></li>
+  <li> <a href="https://softuni.bg/certificates/certificates/converttoimage/218591?code=b424b50c">HTML & CSS </a></li>
 </ul>
 
 
