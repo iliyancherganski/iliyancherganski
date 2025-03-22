@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Iliyan Cherganski</h1>
-<h3 align="center">I'm a .NET software developer from Varna, Bulgaria, with a strong passion for software development and algorithms. I graduated from the High School of Mathematics and Natural Sciences 'Vasil Drumev' in Veliko Tarnovo and am currently pursuing a degree in Artificial Intelligence at the Technical University of Varna.</h3>
-<h3 align="center">Over the years, I've actively participated in various IT competitions, including the National Information Technology Olympiad for five consecutive years. My interests lie in software and web development.</h3>
-
+<h3 align="center">I'm a .NET software developer from Varna, Bulgaria, with a strong passion for software development and algorithms. I graduated from the High School of Mathematics and Natural Sciences 'Vasil Drumev' in Veliko Tarnovo and am currently pursuing a degree in Artificial Intelligence at the Technical University of Varna. Over the years, I've actively participated in various IT competitions, including the National Information Technology Olympiad for five consecutive years. My interests lie in software and web development.</h3>
+<h3 align="center">I'm also very passionate about 3D Modelling, Environment Creation and Animation :) </h3>
 - 🌱 I’m currently learning **Python, JavaScript, React**
 
 - 💬 Ask me about **Unity, Blender 3D**
