@@ -33,6 +33,7 @@
   <li> <a href="https://softuni.bg/certificates/certificates/converttoimage/164857?code=5eb0b250">SoftUni - Entity Framework Core </a></li>
   <li> <a href="https://softuni.bg/certificates/certificates/converttoimage/215328?code=9d5a9e72">SoftUni - ASP.NET Fundamentals </a></li>
   <li> <a href="https://softuni.bg/certificates/certificates/converttoimage/218591?code=b424b50c">SoftUni - HTML & CSS </a></li>
+  <li> <a href="https://softuni.bg/certificates/certificates/converttoimage/243255?code=59652b73">SoftUni - JS Front--End </a></li>
 </ul>
 
 
